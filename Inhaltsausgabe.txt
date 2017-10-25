@@ -1,5 +1,33 @@
-Paper 1
+Paper 1: "Systematic Search for Recipes to Generate Induced Pluripotent Stem Cells"
+
 Inhalt:
 
-Paper 2
+The focus of this paper is a newly developed method of systematically evaluating different approaches to iPSC generation and how efficient they are. 
+It strives to improve their quality for the purpose of facilitating their use in regenerative medicine and disease modeling.
+
+Currently, one of the problems with induced pluripotent stem cell transduction lies in the huge number of combinations of the factors that lead to the
+conversion from one cell type to another. Additionally, the biological systems are much more intricate than the mathematical models can account for. 
+
+Their first step was constructing a genetic network for pluripotency regulation and human embryonic stem cell (hESC) differentiation. 
+The landscape network was estimated by applying the Monte Carlo Markov Chain (MCMC) method and the dynamic Bayesian network (DBN) model. 
+The way they evaluated how successful a model was by comparing the expression levels of the predicted cell states with the hESCs. 
+The measurement was based on the root mean square deviation 
+(RMSD) and the Pearson (r = 0.67) and Spearman rank correlation coefficients. 
+
+
+
+Paper 2: "From Chemically to Physically Induced Pluripotency in Stem Cell"
+
 Inhalt:
+
+The main topic of this paper revolves around the alternatives of generating iPSCs via the introduction of transcription factors (TFs) and hence the reduction
+of the probability for tumorigenicity. 
+
+The first option is the chemically iPSCs (CiPSCs). They are induced by adding small-molecule compounds in the cell which interact with the pluripotency 
+genes Oct4, Sox2, Nanog, Sall4, Sox17, Gata4, and Gata6, potentially changing their biochemical conformation and enhancing their expression.
+
+Another possibility is the physically iPSCs (PiPSC). A very important factor here is the torsion transition which is dependent on the temperature, pH, 
+volume and shape of the coherent domain.
+
+As a whole, both alternatives are largely based on quantum theory. However, the authors imply that the physical model could be more than 150 folds 
+more effective than the chemical reprogramming method.
