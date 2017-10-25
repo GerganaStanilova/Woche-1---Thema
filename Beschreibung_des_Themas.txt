@@ -1,0 +1,8 @@
+Induced Pluripotent Stem Cells
+
+Stem cells (SCs) are characterized by their ability to stay in an undifferentiated state for many cell cycles and to differentiate into
+any number of mature cell types, depending on the stem cell. In general, there are two types of stem cells – the embryonic and the somatic SCs. 
+The embryonic stem cells (ESC) are pluripotent and therefore can mature into a large number of cells, while on the other hand the somatic 
+(also called adult) SCs are multipotent so they have a more limited palette of possibilities. In the last decade, a new method was developed, 
+which enabled reverting already differentiated cells back into a stem-cell-like state. These reprogrammed so-called induced pluripotent stem cells (iPSCs) 
+serve as an alternative to the ESCs and therefore manage to reduce the problem with the controversy surrounding them.
